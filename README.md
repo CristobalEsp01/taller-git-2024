@@ -4,5 +4,4 @@
 - modificar archivo .md
 - clonar el repositorio
 - hacer cambios en el repositorio local (add, commit)
-- push y pull al repositorio remoto
-- 
+- push y pull al repositorio remoto 
